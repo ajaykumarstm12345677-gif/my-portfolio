@@ -115,7 +115,7 @@ const projects = [
     tech: ["JavaScript", "DSA"],
     icon: "📊",
     github: "https://github.com/ajaykumarstm12345677-gif",
-    live: "#"
+    live: "https://leetcode.com/u/ajaySahu786/"
   },
 
   {
