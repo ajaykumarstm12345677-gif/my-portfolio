@@ -103,7 +103,7 @@ const projects = [
     tech: ["HTML", "CSS", "JavaScript"],
     icon: "📱",
     github: "https://github.com/ajaykumarstm12345677-gif",
-    live: "#"
+    live: "https://my-portfolio-blush-gamma-38.vercel.app"
   },
 
   {
