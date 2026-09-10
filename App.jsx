@@ -79,7 +79,7 @@ const projects = [
     tech: ["JavaScript", "CSS", "HTML"],
     icon: "💻",
     github: "https://github.com/ajaykumarstm12345677-gif",
-    live: "#"
+    live: "htpps://my-portfolio-blush-gamma-38.vercel.app"
   },
 
   {
@@ -91,7 +91,7 @@ const projects = [
     tech: ["C++", "DSA"],
     icon: "🧠",
     github: "https://github.com/ajaykumarstm12345677-gif",
-    live: "#"
+    live: "https://github.com/ajaykumarstm12345677-gif"
   },
 
   {
@@ -127,7 +127,7 @@ const projects = [
     tech: ["React", "CSS", "JavaScript"],
     icon: "🎓",
     github: "https://github.com/ajaykumarstm12345677-gif",
-    live: "#"
+    live: "https://github.com/ajaykumarstm12345677-gif"
   }
 
 ];
